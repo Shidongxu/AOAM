@@ -9,4 +9,5 @@ Execute commands in batches (requires users to have a basic command knowledge ba
 Obtain configuration files locally in batches
 
 Effect display
-![Uploading 微信截图_20250401195346.png…]()
+![微信截图_20250401195346](https://github.com/user-attachments/assets/da4398fc-a808-4b48-a815-f9084e6c0633)
+
